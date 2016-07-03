@@ -31,6 +31,8 @@
 
   {% if theme.menu %}
     <ul id="menu" class="menu">
+	 
+	
       {% for name, path in theme.menu %}
         {% set itemName = name.toLowerCase() %}
         <li class="menu-item menu-item-{{ itemName }}">
@@ -57,6 +59,7 @@
           </a>
         </li>
       {% endif %}
+	 
     </ul>
   {% endif %}
 
@@ -65,5 +68,6 @@
       {% include 'search.swig' %}
     </div>
   {% endif %}
+   
 </nav>
 

@@ -10,7 +10,7 @@
 
 
 <div class="powered-by">
-  {{ __('footer.powered', '<a class="theme-link" href="http://hexo.io">Hexo</a>') }}
+  {{ __('footer.powered', '<a class="theme-link" href="https://github.com/double-qiu/double-qiu.github.io">Git</a>') }}
 </div>
 
 <div class="theme-info">
