@@ -259,7 +259,7 @@ mathjax:
   enable: true
   cdn: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 # 多说热评文章 true 或者 false
-duoshuo_hotartical: true
+duoshuo_hotartical: false
 # Swiftype Search API Key
 #swiftype_key:
 search:
