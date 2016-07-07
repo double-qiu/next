@@ -10,12 +10,12 @@
 
 
 <div class="powered-by">
-  {{ __('footer.powered', '<a class="theme-link" href="https://github.com/double-qiu/double-qiu.github.io">Git</a>') }}
+  {{ __('footer.powered', '<a class="theme-link" href="https://github.com/double-qiu/double-qiu.github.io"  rel="external nofollow">Git</a>') }}
 </div>
 
 <div class="theme-info">
   {{ __('footer.theme') }} -
-  <a class="theme-link" href="https://github.com/double-qiu/next.git">
+  <a class="theme-link" href="https://github.com/double-qiu/next.git" rel="external nofollow">
     NexT.{{ theme.scheme }}
   </a>
 </div>

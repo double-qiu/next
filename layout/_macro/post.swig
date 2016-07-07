@@ -148,14 +148,8 @@
       {% endif %}
 
       {% if is_index %}
-        {% if post.description %}
-          {{ post.description }}
-          <div class="post-more-link text-center">
-            <a class="btn" href="{{ url_for(post.path) }}">
-              {{ __('post.read_more') }} &raquo;
-            </a>
-          </div>
-        {% elif post.excerpt  %}
+      
+        {% if post.excerpt  %}
           {{ post.excerpt }}
           <div class="post-more-link text-center">
             <a class="btn" href="{{ url_for(post.path) }}{% if theme.scroll_to_more %}#more{% endif %}" rel="contents">

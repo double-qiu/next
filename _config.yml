@@ -267,7 +267,9 @@ search:
   field: post
 # Baidu Analytics ID
 #baidu_analytics:
-
+# 自动生成sitemap
+baidusitemap:
+  path: baidusitemap.xml
 # Duoshuo ShortName
 duoshuo_shortname: ufdouble
 
