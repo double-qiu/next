@@ -35,6 +35,7 @@
           {{ list_categories() }}
         </div>
       </div>
+	  
     {% else %}
       {{ page.content }}
     {% endif %}

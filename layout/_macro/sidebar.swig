@@ -108,8 +108,8 @@
             </ul>
           </div>
         {% endif %}
-			<div>         
-			<embed src="http://www.xiami.com/widget/197012818_1772908502,1776034784,1774917404,1770093948,74560,377521,74688,2067242,1773368757,3381903,_216_346_cccccc_dddddd_1/multiPlayer.swf" type="application/x-shockwave-flash" width="216" height="346" wmode="opaque"></embed>
+			<div>
+			<embed src="http://www.xiami.com/widget/197012818_1772908502,1776034784,1774917404,1770093948,74560,377521,74688,2067242,1773368757,3381903,_216_346_cccccc_dddddd_0/multiPlayer.swf" type="application/x-shockwave-flash" width="216" height="346" wmode="opaque"></embed>
           </div>
       </section>
 
